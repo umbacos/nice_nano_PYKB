@@ -81,9 +81,9 @@ keyboard.keymap = (
     # layer 0 NUMBE: remapped to match the ANSI layout with the Italian keyboard on the computer
     (
         ESC,   1,   2,   3,   4,   5,   6,   7,   8,   9,   0, BACKSPACE,
-        MT(LSHIFT, TAB),  IT_PLUS,  IT_MINU, IT_SLSH, IT_STAR,   IT_EQAL,  XXX,  XXX, IT_LSQR, IT_RSQR, IT_BSLS, ENTER,
-        LT(SHIFT, DEL),  XXX,   XXX,   XXX,   XXX, XXX,   XXX,   XXX,   XXX,   XXX,   XXX, XXX,
-        LCTRL, LALT, LGUI, LGUI, LT(NUMBE),      LT(ACCEN, SPACE),   LT(SYMBO), LT(NAVIG, LGUI),  LEFT, DOWN, RIGHT
+        MT(LSHIFT, TAB),  IT_PLUS,  IT_MINU, IT_SLSH, IT_STAR,   IT_EQAL,  XXX,  XXX,   IT_LSQR, IT_RSQR, IT_BSLS, ENTER,
+        LT(SHIFT, DEL),   XXX,      XXX,     XXX,     XXX,       XXX,      XXX,  XXX,   XXX,     XXX,     XXX,     XXX,
+        LCTRL,  LALT,     LGUI,    LGUI,    LT(NUMBE), LT(ACCEN, SPACE),   LT(SYMBO), LT(NAVIG, LGUI),  LEFT, DOWN, RIGHT
     ),
 
     # layer 1 SYMBO: remapped to match the ANSI layout with the Italian keyboard on the computer
