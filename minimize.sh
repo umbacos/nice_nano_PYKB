@@ -12,4 +12,4 @@
 
 rm -r /Volumes/CIRCUITPY/*
 rsync -av --exclude=".*" lib/ /Volumes/CIRCUITPY/lib
-cp code.py /Volumes/CIRCUITPY/
+cp code.py /Volumes/CIRCUITPY

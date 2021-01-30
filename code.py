@@ -97,7 +97,7 @@ keyboard.keymap = (
     # layer 2 FUNCT: MACRO(0) to read the battery level (requires a 3 wires JST connector from the battery)
     (
         ESC,  F1,  F2,  F3,  F4,  F5,  F6,  F7,  F8,  F9, F10, DEL,
-        XXX, XXX, XXX, XXX, XXX, XXX, XXX, XXX,SUSPEND,AUDIO_VOL_DOWN,AUDIO_VOL_UP,AUDIO_MUTE,
+        XXX, XXX, XXX, XXX, RESET, XXX, XXX, XXX,SUSPEND,AUDIO_VOL_DOWN,AUDIO_VOL_UP,AUDIO_MUTE,
         LSHIFT, XXX, XXX, XXX, XXX,BOOT, XXX,MACRO(0), XXX, XXX, UP, RSHIFT,
         LCTRL, LALT, LGUI, LGUI, LT(NUMBE),      LT(ACCEN, SPACE),   LT(SYMBO), LT(NAVIG, LGUI),  LEFT, DOWN, RIGHT
     ),
