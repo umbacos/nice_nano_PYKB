@@ -12,43 +12,7 @@ MT = lambda a,b: MODS_TAP(MODS(a),b)     # modifier "a" if held, "b" if tapped
 
 # ITALIAN CHARMAP FOR ANSI LAYOUT
 # Set the computer in the Italian keyboard input mode
-IT_EGRV='['
-IT_AGRV='\''
-IT_UGRV='\\'
-IT_IGRV='='
-IT_OGRV=';'
-IT_EURO=_A(E)
-IT_EXCL=_S(1)
-IT_AT  =_A(';')
-IT_SHRP=_A('\'')
-IT_DOLL=_S(4)
-IT_PERC=_S(5)
-IT_POWE=_S('=')
-IT_ECOM=_S(6)
-IT_STAR=_S(']')
-IT_LPAR=_S(8)
-IT_RPAR=_S(9)
-IT_EQAL=_S(0)
-IT_MINU='/'
-IT_PLUS=']'
-IT_UNDS=_S('/')
-IT_LSQR=_A('[')
-IT_RSQR=_A(']')
-IT_LBRK=_A(_S('['))
-IT_RBRK=_A(_S(']'))
-IT_SCLN=_S(',')
-IT_COLN=_S('.')
-IT_QUOT='-'
-IT_DQUO=_S(2)
-IT_COMM=','
-IT_FULL='.'
-IT_SLSH=_S(7)
-IT_QSTN=_S('-')
-IT_MINO='`'
-IT_MAJO=_S('`')
-IT_BSLS=0x64     # Non US backslash \
-IT_PIPE=_S(0x64) # Non US pipe |
-
+ Eeeeeeeee                       
 # layer definitions
 QWERT=0
 SHIFT=1
